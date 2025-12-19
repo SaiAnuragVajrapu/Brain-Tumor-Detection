@@ -84,7 +84,7 @@ The complete implementation is provided with data preprocessing, model training,
 
    jupyter notebook brain-tumor-detection-project.ipynb
 
-```
+  ```
 
 
 4. Run all cells sequentially
