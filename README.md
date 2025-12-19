@@ -72,7 +72,6 @@ The complete implementation is provided with data preprocessing, model training,
 2. Navigate to the project directory
    
    ```bash
-
    cd brain-tumor-detection
 
    ```
@@ -81,8 +80,7 @@ The complete implementation is provided with data preprocessing, model training,
 3. Open the notebook
   
   ```bash
-
-   jupyter notebook brain-tumor-detection-project.ipynb
+  jupyter notebook brain-tumor-detection-project.ipynb
 
   ```
 
