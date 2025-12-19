@@ -31,7 +31,7 @@ The complete implementation is provided with data preprocessing, model training,
   - **No Tumor**
 - Images are resized and normalized before training
 
-*(Dataset path can be updated inside the notebook as required)*
+*https://www.kaggle.com/datasets/salmaemadali/brain-mri-images-for-brain-tumor-detection*
 
 ---
 
